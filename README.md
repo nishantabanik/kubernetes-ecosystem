@@ -1,3 +1,3 @@
-# kubernetes-in-production-examples
+# Kubernetes Ecosystem Usecases
 
-This repo contains examples of a few tools and services you may use in production.# kubernetes-ecosystem
+This repo contains examples of a few tools and services we use in kubernetes-ecosystem
